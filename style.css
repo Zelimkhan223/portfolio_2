@@ -1,0 +1,53 @@
+.header {
+    height: 80px;
+    border-bottom: 1px solid #828282;
+}
+.header a{
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 22px;
+    color: #828282;
+}
+.header a:first-child {
+    color: #070707;
+    font-weight: bold;
+}
+.lang {
+    transform: rotate(-90deg);
+    margin: 0;
+}
+.aboutMe {
+    background-color: #f6f6f6;
+}
+.skillBlock {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.porten {
+    background-color: #F6F6F6;
+}
+.porten h1 {
+    font-weight: bold;
+}
+.footer h1 {
+    font-weight: bold;
+}
+.footer p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.footer button {
+    background: #070707;
+    color: #FFFFFF;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 30px;
+}
+.footer .footerIcons img{
+    padding: 0 25px;
+}
+.footer span {
+    color: #828282;
+    font-size: 13px;
+}
